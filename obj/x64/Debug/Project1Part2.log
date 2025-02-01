@@ -1,0 +1,29 @@
+﻿  ofApp.cpp
+C:\Users\dawso\OneDrive\Documents\openFrameworks\libs\openFrameworks\math\ofMatrix4x4.h(326,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'src/ofApp.cpp')
+  
+C:\Users\dawso\OneDrive\Documents\openFrameworks\libs\openFrameworks\math\ofMatrix4x4.h(331,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'src/ofApp.cpp')
+  
+C:\Users\dawso\OneDrive\Documents\openFrameworks\libs\openFrameworks\math\ofMatrix4x4.h(912,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'src/ofApp.cpp')
+  
+C:\Users\dawso\OneDrive\Documents\openFrameworks\libs\openFrameworks\math\ofMatrix4x4.h(913,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'src/ofApp.cpp')
+  
+C:\Users\dawso\OneDrive\Documents\openFrameworks\libs\openFrameworks\math\ofMatrix4x4.h(914,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'src/ofApp.cpp')
+  
+C:\Users\dawso\OneDrive\Documents\openFrameworks\libs\openFrameworks\math\ofMatrix4x4.h(915,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'src/ofApp.cpp')
+  
+C:\Users\dawso\OneDrive\Documents\openFrameworks\apps\myApps\Project1Part2\src\ofApp.cpp(418,22): warning C4552: '-': result of expression not used
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/FORCE' specification
+  Project1Part2.vcxproj -> C:\Users\dawso\OneDrive\Documents\openFrameworks\apps\myApps\Project1Part2\bin\Project1Part2_debug.exe
+  
+  	                   2	C:\Users\dawso\OneDrive\Documents\openFrameworks\libs\fmod\lib\vs\x64\
+  	  *EXTRA File 		 6942208	C:\Users\dawso\OneDrive\Documents\openFrameworks\apps\myApps\Project1Part2\bin\FreeImage.dll
+  
+  	                   1	C:\Users\dawso\OneDrive\Documents\openFrameworks\libs\FreeImage\lib\vs\x64\
+  	  *EXTRA File 		 1826304	C:\Users\dawso\OneDrive\Documents\openFrameworks\apps\myApps\Project1Part2\bin\fmod.dll
+  	  *EXTRA File 		 2041856	C:\Users\dawso\OneDrive\Documents\openFrameworks\apps\myApps\Project1Part2\bin\fmodL.dll
